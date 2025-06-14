@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/background.xml" value="0.14" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/button.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/button_pink.xml" value="0.124" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_add_alert_black_24dp.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_delete_24.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_edit_24.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_email_24.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_launcher_background.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_lock_24.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_person_24.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_phone_24.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/ic_stay_current_portrait_black_24dp.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/drawable/round_solid_shape.xml" value="0.188" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_addrelative.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_emergency.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_helpline.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_howtouse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_siren.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_splashh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/activity_view_contacts.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/edit_contact.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/item_contact_list.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/layout/slide_layout.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/menu/contact_list_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.185" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/SHE--Live-Without-Fear/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.185" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/drawable/button.xml" value="0.1175" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/drawable/button_pink.xml" value="0.1175" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/drawable/ic_email_24.xml" value="0.1175" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/drawable/round_solid_shape.xml" value="0.1175" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_addrelative.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_emergency.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_helpline.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_howtouse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_medical.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_splashh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/activity_view_contacts.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/edit_contact.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/item_contact_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91763/AndroidStudioProjects/forHER_Women_Safety/app/src/main/res/layout/slide_layout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
